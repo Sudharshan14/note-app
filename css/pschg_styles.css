@@ -1,0 +1,32 @@
+body {
+	background: #f3f6fa;
+	font-size: 17px;
+	font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	line-height: 1.5;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	color: #747474;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+}
+
+a:link, a:visited {
+	color: #FFF;
+}
+
+.header {
+	background: #428bca;
+	height: 60px;	
+}
+
+.logo {
+	padding-top: 1px;
+}
+
+h3 {
+	font-size: 25px;
+	color: #5e5e5e;
+}

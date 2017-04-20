@@ -1,0 +1,8 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^xtnote.com$
+        RewriteRule ^$ http://www.xtnote.com/index.php [L,R=301]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule ^(.*)$ /shribc.php [L]
