@@ -1,5 +1,5 @@
 # note-app
 - A web application for note-taking
-- Poorly written, unconventional, undocumented code :(
-- Released under "Unlicensed" license, so feel free to reuse.
-- Remove the references to **_xtnote.com_** when reusing the code.
+- Remove the references to **_xtnote.com_**, if you are reusing the code.
+- Released under "Unlicensed" license.
+- DISCLAIMER : Poorly written, unconventional, undocumented code.
